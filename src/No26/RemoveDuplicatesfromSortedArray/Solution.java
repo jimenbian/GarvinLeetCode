@@ -24,7 +24,7 @@ public class Solution {
         	  for(int k=0;k<index;k++){
         		  C[k]=B[k];
         	  }
-        	  A=C;
+        	  
         	  return index;
         	  }
         public static void main(String[] args){
