@@ -5,6 +5,7 @@ public class Solution {
 	public static int ato1i(String str){
 		String num_str="";
         char[] str_char=str.toCharArray();
+     
         char[] sympo="-+".toCharArray();
         boolean abs=true;
         for(int i=0;i<str.length();i++){
