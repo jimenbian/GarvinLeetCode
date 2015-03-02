@@ -12,8 +12,7 @@ public class Solution {
 	            }	            
 	            else{
 	            	  first=first.next;
-	            	  second=first.next;
-	            		
+	            	  second=first.next;	            		
 	            }
 	            
 	        }
